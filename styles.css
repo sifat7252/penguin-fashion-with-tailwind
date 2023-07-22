@@ -4,3 +4,24 @@
 .font-roboto{
     font-family: 'Roboto', sans-serif;
 }
+.women-card-container{
+    border: 2px solid black;
+}
+.card-title{
+    border: 2px solid blue;
+}
+.card1{
+    border: 2px solid green;
+}
+.card1-title .card2-title .card3-title{
+    border: 2px solid purple;
+}
+.card1-description .card2-description .card3-description{
+    border: 2px solid black;
+}
+.card2{
+    border: 2px solid red;
+}
+.card3{
+    border: 2px solid sandybrown;
+}
